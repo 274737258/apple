@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8A596TBVCR.com.shootZ.app.shootz",
+        "paths": [
+          "/app/*”
+        ]
+      }
+    ]
+  }
+}
